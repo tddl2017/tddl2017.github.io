@@ -1,0 +1,15 @@
+<nav class="c-navigation {% if site.fixedNav == 'true' %}is-fixed{% endif %}">
+    <div class="c-nav-container">
+
+        <a class="c-navigation__item c-navigation__bold nav" href="{{ " / " | prepend: site.baseurl }}">TDDL</a>
+
+        <div class="c-navigation__container u-container  navbar-right">
+            <a class="c-navigation__item {% if page.url == site.baseurl | append: ' #call-for-papers ' %}is-active{% endif %}" href=" #call-for-papers ">Call for Papers</a>
+            <a class="c-navigation__item {% if page.url == site.baseurl | append: ' #important-dates ' %}is-active{% endif %}" href=" #important-dates ">Important Dates</a>
+            <a class="c-navigation__item {% if page.url == site.baseurl | append: ' #organizers ' %}is-active{% endif %}" href=" #workshop-organizers ">Organizers</a>
+            <!-- <a class="c-navigation__item {% if page.url == site.baseurl | append: ' #program ' %}is-active{% endif %}" href=" #program ">Program</a>
+            <a class="c-navigation__item {% if page.url == site.baseurl | append: ' #accepted-papers ' %}is-active{% endif %}" href=" #accepted-papers ">Accepted Papers</a>
+          -->
+        </div>
+    </div>
+</nav>
