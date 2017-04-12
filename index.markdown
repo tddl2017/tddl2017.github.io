@@ -42,12 +42,13 @@ This workshop proposes to bring together researchers and practitioners from diff
 
 * Short paper: 4 pages
 * Demos: 4 pages
-* Long papers: 12 pages
+* Long papers: between 8 and 12 pages
+* Paper format: according to the main conference format [Springer-Verlag Lecture Notes in Computer Science](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0)
+* EasyChair: [https://easychair.org/conferences/?conf=tddl2017](https://easychair.org/conferences/?conf=tddl2017)
 
- Paper format: according to the main conference format (Springer-Verlag Lecture Notes in Computer Science). All submissions should be written in English and submitted as PDF and should not have been published or submitted for publication elsewhere
-EasyChair: XXX
+All submissions should be written in English and describe new theoretical models, applied techniques, or research in progress.
 
-We will also consider editing a special issue on the International Journal on Digital Libraries after the workshop by encouraging the participants to extend their papers
+We will also consider editing a special issue on the International Journal on Digital Libraries after the workshop by encouraging the participants to extend their papers.
 
 
 # PC MEMBERS
