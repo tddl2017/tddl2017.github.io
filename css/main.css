@@ -268,6 +268,8 @@ img {
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
   }
+
+  
 }
 
 
@@ -585,6 +587,56 @@ blockquote footer {
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;
+  }
+}
+
+/* added now */
+@media only screen and (max-width:767px) {
+
+  .header-title {
+    height: 70%;
+    padding-top: 5rem;
+  }
+
+  .intro-header {
+    margin-top: 0;
+    padding: 10px 10px 10px 10px;
+  }
+  .intro-header.big-img {
+    margin-top: 30px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
+  }
+  .intro-header.big-img .page-heading,
+  .intro-header.big-img .post-heading  {
+    padding: 10px 0;
+  }
+  .intro-header .page-heading h1 {
+    font-size: 20px;
+  }
+  .intro-header .post-heading h1 {
+    font-size: 15px;
+  }
+  .intro-header.big-img .img-desc {
+    font-size: 12px;
+  }
+
+  body {
+    font-size: 1.4rem;
+  }
+  h1 {
+    font-size: 2.2rem;
+    padding-top: 2rem;
+  }
+  h2 {
+    font-size: 2.0rem;
+  }
+  h3 {
+    font-size: 1.8rem;
+  }
+  h5 {
+    font-size: 1.6rem;
+  }
+  h6 {
+      font-size: 1.4rem;
   }
 }
 
