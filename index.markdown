@@ -12,7 +12,9 @@ This workshop proposes to bring together researchers and practitioners from diff
 
 
 # TOPICS OF INTEREST
-- We will invite papers that pertain to the workshop theme including but not limited to:
+
+We invite papers that pertain to the workshop theme including but not limited to:
+
 - Diachronic analysis of language
 - Time-aware Information Retrieval for Digital Libraries
 - Time-aware Recommender Systems for Digital Libraries
@@ -33,7 +35,7 @@ This workshop proposes to bring together researchers and practitioners from diff
 
 # IMPORTANT DATES
 
-* Paper submission deadline: June 2, 2017  
+* Paper submission deadline: June 2, 2017 (11:59pm Hawaii time)
 * Notification of paper acceptance: July 14, 2017
 * Camera-ready version deadline: July 28, 2017
 * Workshop (at TPDL 2017): September 17-21, 2017
@@ -46,9 +48,16 @@ This workshop proposes to bring together researchers and practitioners from diff
 * Paper format: according to the main conference format [Springer-Verlag Lecture Notes in Computer Science](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0)
 * EasyChair: [https://easychair.org/conferences/?conf=tddl2017](https://easychair.org/conferences/?conf=tddl2017)
 
-All submissions should be written in English and describe new theoretical models, applied techniques, or research in progress.
-
+We encourage submissions that describe new theoretical models, applied techniques, and research in progress.
+Submissions should not have been published or submitted for publication elsewhere and should be prepared according to the main conference format (Springer-Verlag Lecture Notes in Computer Science).
+All submissions should be written in English and submitted as PDF.
+Submissions will be peer reviewed (single-blind) by the program committee members.
+Evaluation criteria will include novelty, significance for theory/practice, technical soundness, and quality of presentation.
+All the submissions should be submitted via [EasyChair](https://easychair.org/conferences/?conf=tddl2017).
+At least one author of an accepted paper must attend the workshop to present the work.
+The accepted papers will be published in the workshop proceedings via CEUR Workshop Proceedings.
 We will also consider editing a special issue on the International Journal on Digital Libraries after the workshop by encouraging the participants to extend their papers.
+
 
 
 # PC MEMBERS
