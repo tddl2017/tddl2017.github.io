@@ -65,8 +65,8 @@ We will also consider editing a special issue on the International Journal on Di
   - Michele Filannino, SUNY @ Albany and MIT Clinical Decision Making group
   - Adam Jatowt, Kyoto University
   - Wolfgang Nejdl, L3S Research Center, Hannover
-<!---  - Claudia Niederée, L3S Research Center, Hannover
-  - Kjetil Nørvåg, Norwegian University of Science and Technology --->
+<!---  - Claudia Niederée, L3S Research Center, Hannover --->
+<!---  - Kjetil Nørvåg, Norwegian University of Science and Technology --->
   - Thomas Risse, L3S Research Center, Hannover
   - Rachele Sprugnoli, Digital Humanities at Fondazione Bruno Kessler (FBK)
   - And more to join.
