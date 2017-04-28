@@ -42,7 +42,7 @@ We invite papers that pertain to the workshop theme including but not limited to
 
 # HOW TO SUBMIT
 
-* Short paper: 4 pages
+* Position and Short papers: 4 pages
 * Demos: 4 pages
 * Long papers: between 8 and 12 pages
 * Paper format: according to the main conference format [Springer-Verlag Lecture Notes in Computer Science](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0)
