@@ -38,7 +38,7 @@ We invite papers that pertain to the workshop theme including but not limited to
 * Paper submission deadline: June 2, 2017 (11:59pm Hawaii time)
 * Notification of paper acceptance: July 14, 2017
 * Camera-ready version deadline: July 28, 2017
-* Workshop (at TPDL 2017): September 17-21, 2017
+* Workshop (at TPDL 2017): September 21, 2017
 
 # HOW TO SUBMIT
 
