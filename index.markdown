@@ -62,6 +62,7 @@ We will also consider editing a special issue on the International Journal on Di
 
 # PC MEMBERS
 
+  - Ingo Frommholz, School of Computer Science and Technology, University of Bedfordshire
   - Ted Underwood, University of Illinois, Urbana-Champaign
   - Michele Filannino, SUNY @ Albany and MIT Clinical Decision Making group
   - Adam Jatowt, Kyoto University
