@@ -556,6 +556,9 @@ footer .theme-by {
 
 table {
   padding: 0;
+  font-family: 'Lora', 'Times New Roman', serif;
+  font-size: 18px;
+  color: #404040;
 }
 table tr {
   border-top: 1px solid #cccccc;
@@ -568,7 +571,6 @@ table tr:nth-child(2n) {
 }
 table tr th {
   font-weight: bold;
-  border: 1px solid #cccccc;
   text-align: left;
   margin: 0;
   padding: 6px 13px;

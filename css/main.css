@@ -269,7 +269,7 @@ img {
     display: block;
   }
 
-  
+
 }
 
 
@@ -727,25 +727,23 @@ blockquote footer {
 
 table {
   padding: 0;
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 22px;
+  color: #404040;
 }
 table tr {
-  border-top: 1px solid #cccccc;
   background-color: #ffffff;
   margin: 0;
   padding: 0;
 }
-table tr:nth-child(2n) {
-  background-color: #f8f8f8;
-}
+
 table tr th {
   font-weight: bold;
-  border: 1px solid #cccccc;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
 }
 table tr td {
-  border: 1px solid #cccccc;
   text-align: left;
   margin: 0;
   padding: 6px 13px;

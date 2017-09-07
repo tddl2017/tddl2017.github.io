@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 1st Workshop on Temporal Dynamics in Digital Libraries
+subtitle: at  21st International Conference on Theory and Practice of Digital Libraries
 ---
 
 # CALL FOR PAPERS
@@ -58,7 +59,30 @@ At least one author of an accepted paper must attend the workshop to present the
 The accepted papers will be published in the workshop proceedings via CEUR Workshop Proceedings.
 We will also consider editing a special issue on the International Journal on Digital Libraries after the workshop by encouraging the participants to extend their papers.
 
+# PROGRAM
 
+### Thursday 21st September 2017
+
+|[09:00 - 09:15]| Welcome|
+|[09:15 - 10:00]| Keynote: Taking Time Seriously: Diachronic Collections in Digital Libraries|
+|| by *Jaap Kamps*|
+|[10:00 - 10:30]| A Half-Life Decaying Model for Recommender Systems with Matrix Factorization|
+||*Panagiotis Ardagelou, and Avi Arampatzis*|
+|[10:30 - 11:00]| Break |
+|[11:00 - 11:30]| HEI: Hunter Events Interface|
+| | *Antonio Sorgente, Antonio Calabrese, Gianluca Coda, Paolo Vanacore, and Francesco Mele*|
+|[11:30 - 12:00]| Investigating Per-user Time Sensitivity Of Search Topics|
+| | *Jivashi Nagar, and Hussein Suleman*|
+|[12:30 - 13:00]| Discussion and closing remarks|
+
+# INVITED SPEAKER
+
+## Taking Time Seriously: Diachronic Collections in Digital Libraries
+by ***Jaap Kamps***, University of Amsterdam
+
+Digital library collections may appear static, but usually contains content from many different time periods.  What changes when your collection is a diachronic corpus spanning decades or even centuries?  The temporal structure is a lightweight annotation that provides powerful new handles for users to explore the collection, and engage with the material from many different angles.  There are also fundamental consequences for the design of digital library systems and back office systems empowering curators and digital humanities researchers to explore the data at scale.  We study this question for collections of parliamentary proceedings spanning multiple centuries in a uniform format.
+
+***About the speaker:*** Jaap Kamps is an associate professor of information retrieval at the University of Amsterdam, PI of a stream of large research projects on information access funded by NWO and the EU, vice-chair of the ACM SIG-IR, organizer of evaluation efforts at TREC and CLEF, and a prolific organizer of conferences and workshops.  His research interests span all facets of information storage and retrieval -- from user-centric to system-centric, and from basic research to applied research. A common element is the combination of textual information with additional structure, such as document structure, Web-link structure, and/or contextual information, such as meta-data, anchors, tags, clicks, or profiles.
 
 # PC MEMBERS
 
@@ -66,7 +90,7 @@ We will also consider editing a special issue on the International Journal on Di
   - Michele Filannino, SUNY @ Albany and MIT Clinical Decision Making group
   - Adam Jatowt, Kyoto University
   - Wolfgang Nejdl, L3S Research Center, Hannover
-  - Kjetil Nørvåg, Norwegian University of Science and Technology 
+  - Kjetil Nørvåg, Norwegian University of Science and Technology
   - Thomas Risse, L3S Research Center, Hannover
   - Rachele Sprugnoli, Digital Humanities at Fondazione Bruno Kessler (FBK)
   - And more to join.
