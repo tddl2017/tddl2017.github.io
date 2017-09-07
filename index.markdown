@@ -36,7 +36,7 @@ We invite papers that pertain to the workshop theme including but not limited to
 
 # IMPORTANT DATES
 
-* Paper submission deadline: June 2, 2017 (11:59pm Hawaii time)
+* \*Extended\* Paper submission deadline: ~~June 2, 2017~~ **June 16, 2017**  (11:59pm Hawaii time)
 * Notification of paper acceptance: July 14, 2017
 * Camera-ready version deadline: July 28, 2017
 * Workshop (at TPDL 2017): September 21, 2017
@@ -86,6 +86,7 @@ Digital library collections may appear static, but usually contains content from
 
 # PC MEMBERS
 
+  - Ingo Frommholz, School of Computer Science and Technology, University of Bedfordshire
   - Ted Underwood, University of Illinois, Urbana-Champaign
   - Michele Filannino, SUNY @ Albany and MIT Clinical Decision Making group
   - Adam Jatowt, Kyoto University
