@@ -63,15 +63,15 @@ We will also consider editing a special issue on the International Journal on Di
 
 ### Thursday 21st September 2017
 
-|[09:00 - 09:15]| Welcome|
-|[09:15 - 10:00]| Keynote: Taking Time Seriously: Diachronic Collections in Digital Libraries|
+|[09:30 - 09:45]| Welcome|
+|[09:45 - 10:30]| Keynote: Taking Time Seriously: Diachronic Collections in Digital Libraries|
 || by *Jaap Kamps*|
-|[10:00 - 10:30]| A Half-Life Decaying Model for Recommender Systems with Matrix Factorization|
+|[10:30 - 11:00]| A Half-Life Decaying Model for Recommender Systems with Matrix Factorization|
 ||*Panagiotis Ardagelou, and Avi Arampatzis*|
-|[10:30 - 11:00]| Break |
-|[11:00 - 11:30]| HEI: Hunter Events Interface|
+|[11:00 - 11:30]| Break |
+|[11:30 - 12:00]| HEI: Hunter Events Interface|
 | | *Antonio Sorgente, Antonio Calabrese, Gianluca Coda, Paolo Vanacore, and Francesco Mele*|
-|[11:30 - 12:00]| Investigating Per-user Time Sensitivity Of Search Topics|
+|[12:00 - 12:30]| Investigating Per-user Time Sensitivity Of Search Topics|
 | | *Jivashi Nagar, and Hussein Suleman*|
 |[12:30 - 13:00]| Discussion and closing remarks|
 
