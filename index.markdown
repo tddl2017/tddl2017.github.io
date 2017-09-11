@@ -73,7 +73,7 @@ We will also consider editing a special issue on the International Journal on Di
 | | *Antonio Sorgente, Antonio Calabrese, Gianluca Coda, Paolo Vanacore, and Francesco Mele*|
 |[11:30 - 12:00]| Investigating Per-user Time Sensitivity Of Search Topics|
 | | *Jivashi Nagar, and Hussein Suleman*|
-|[12:30 - 13:00]| Discussion and closing remarks|
+|[12:00 - 12:30]| Discussion and closing remarks|
 
 # INVITED SPEAKER
 
