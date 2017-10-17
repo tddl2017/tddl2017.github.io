@@ -77,7 +77,7 @@ We will also consider editing a special issue on the International Journal on Di
 
 # INVITED SPEAKER
 
-## Taking Time Seriously: Diachronic Collections in Digital Libraries
+## [Taking Time Seriously: Diachronic Collections in Digital Libraries](invited.pdf)
 by ***Jaap Kamps***, University of Amsterdam
 
 Digital library collections may appear static, but usually contains content from many different time periods.  What changes when your collection is a diachronic corpus spanning decades or even centuries?  The temporal structure is a lightweight annotation that provides powerful new handles for users to explore the collection, and engage with the material from many different angles.  There are also fundamental consequences for the design of digital library systems and back office systems empowering curators and digital humanities researchers to explore the data at scale.  We study this question for collections of parliamentary proceedings spanning multiple centuries in a uniform format.
