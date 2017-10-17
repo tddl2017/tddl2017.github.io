@@ -64,7 +64,7 @@ We will also consider editing a special issue on the International Journal on Di
 ### Thursday 21st September 2017
 
 |[09:00 - 09:15]| Welcome|
-|[09:15 - 10:00]| Keynote: Taking Time Seriously: Diachronic Collections in Digital Libraries|
+|[09:15 - 10:00]| Keynote: [Taking Time Seriously: Diachronic Collections in Digital Libraries](invited.pdf)|
 || by *Jaap Kamps*|
 |[10:00 - 10:30]| A Half-Life Decaying Model for Recommender Systems with Matrix Factorization|
 ||*Panagiotis Ardagelou, and Avi Arampatzis*|
